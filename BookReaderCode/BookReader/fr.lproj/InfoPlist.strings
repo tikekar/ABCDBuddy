@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+
+"FREE"="libre";
+"INSTALL"="Installez";
+"PAINT_IMAGE_SAVED"="Cette image a été enregistrée dans votre album photos";

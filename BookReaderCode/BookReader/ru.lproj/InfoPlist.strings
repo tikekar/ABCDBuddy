@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+
+"FREE"="бесплатно";
+"INSTALL"="скачать";
+"PAINT_IMAGE_SAVED"="Это изображение было сохранено в вашем альбоме фото";

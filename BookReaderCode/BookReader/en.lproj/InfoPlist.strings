@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+"FREE"="Free";
+"INSTALL"="Install";
+"PAINT_IMAGE_SAVED"="This image has been saved in your Photos album";
+"RESTORE_PURCHASES"="Restore purchases";
